@@ -35,7 +35,7 @@ The project focuses on data cleaning, preprocessing, dataset merging, explorator
 
 The project uses two datasets:
 
-- Historical Cryptocurrency Trading Data- https://drive.google.com/file/d/1TT9WFQdpNy33AoaNKAG1ZSjr-WOkLYL-/view?usp=drive_link
+- Historical Cryptocurrency Trading Data- https://drive.google.com/file/d/1TT9WFQdpNy33AoaNKAG1ZSjr-WOkLYL-/view?usp=sharing
 - Bitcoin Fear & Greed Index
 
 ---
